@@ -18,7 +18,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - HTTP web framework
 - File server
 - Distributed file storage
-- Concurrent In-memory Key/Value store (in form of a library or dedicated program like redis/memcached)
+- Concurrent In-memory Key/Value store or cache (in form of a library or dedicated program like redis/memcached)
 - SNI Proxy
   - [Writing a SNI proxy in 115 lines of Go](https://www.agwa.name/blog/post/writing_an_sni_proxy_in_go)
 - DNS/DoH server
@@ -29,6 +29,8 @@ When I have an idea, I note that here. There are some other places to find proje
   - [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
 - A file downloder with multi-part downloads
 - Concurrent webserver
+- Echo server
+- Simple pastebin backend service
 
 ## Emulator / Virtual Machine
 - Chip-8 emulator
@@ -47,7 +49,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - Linker
 - Parser combinator
 - Brainfuck interpreter or JIT compiler
-  - [I made JIT Compiler for Brainf*ck lol (Youtube)](https://youtu.be/mbFY3Rwv7XM)
+  - [I made JIT Compiler for Brainf\*ck lol (Youtube)](https://youtu.be/mbFY3Rwv7XM)
   - [bfjit](https://github.com/tsoding/bfjit)
   - Try to optimize you interpreter as much as you can :)
 - Simple JVM/Python bytecode interpreter
@@ -64,6 +66,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - Arena memory allocator
 - Garbage collector for C
 - Simple Shell
+- Linux kernel driver
 
 ## Misc
 - GNU coreutils clone
@@ -73,3 +76,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - Markdown to HTML
   - Extended: Blog writing page that user can Write normal Markdown with all links and images, then the server parses that, converts it to HTML, 
   downloads every downloadable url (like images), puts all files to a directory that belongs to that blog page ID.
+- JSON/YAML/TOML/XML/CSV parser
+- A package manager for Github releases
+- Program to hide and obfuscate files
+- Simple text editor (TUI or GUI)
