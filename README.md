@@ -4,6 +4,36 @@ When I have an idea, I note that here. There are some other places to find proje
 - [Build-Your-Own-X](https://github.com/codecrafters-io/build-your-own-x)
 - [Other project ideas repository list](https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F)
 
+---
+## Suggestion for watching
+- [The Myth of the Genius Programmer (Google I/O 2009)](https://youtu.be/0SARbwvhupQ?si=WLf15NisHCM9PoGT)
+- [JSON parser 100% from scratch in Haskell](https://youtu.be/N9RUqGYuGfw?si=wMULIalYKDSAPXNy)
+- [Reverse engineering the MOS 6502 CPU](https://youtu.be/fWqBmmPQP40?si=0A4DwRJrX33RGFoe)
+- [Stop writing classes](https://youtu.be/o9pEzgHorH0?si=TMFT4l78z4AQ9vKV)
+- [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://youtu.be/o9pEzgHorH0?si=TMFT4l78z4AQ9vKV)
+- [Intro to Data-Oriented design](https://youtu.be/WwkuAqObplU?si=aAv7CiLUJ3B8QJBQ)
+- [GOTO 2024 - Java, How fast can you parse 1 Bilion rows of weather data?](https://youtu.be/EFXxXFHpS0M?si=HqwWbHIBPqK9IUfr)
+- [C++ on Sea 2023 - \*(char\*)0=0;](https://youtu.be/dFIqNZ8VbRY?si=gPtE6T_qQU1e6i7r)
+- [How Linux kernel handles a TCP connection](https://youtu.be/ck4WvYM9V4c?si=gm-VB0VRuZGkp-tV)
+- [Clean code, Horrible performance](https://youtu.be/tD5NrevFtbU?si=wDdtm3i1u7k-J-H_)
+- [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPU](https://youtu.be/_eSAF_qT_FY?si=vYwpI3O8nMQ4CYLO)
+- [How to Learn and Study](https://youtu.be/ddq8JIMhz7c?si=_X87AVVDwnGsdSWP)
+- [How to be a git expert](https://youtu.be/hZS96dwKvt0?si=Q_Vjj4VHYQquos7X)
+
+## Suggestion for reading
+- [The best engineering interview question I’ve ever gotten](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
+- [Teach yourself CS](https://teachyourselfcs.com/)
+- [Putting the “You” in CPU](https://cpu.land/)
+- [Data alignment: Straighten up and fly right](https://developer.ibm.com/articles/pa-dalign/)
+- [Compiling C to WebAssembly without Emscripten](https://surma.dev/things/c-to-webassembly/)
+- [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/)
+- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
+- [SHA256 algorithm explained](https://sha256algorithm.com/)
+- [Less Known C](https://jorenar.com/blog/less-known-c)
+- [The curse of strong typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
+---
+
 ## Networking
 - Guessing number through TCP (clients connect with `nc` or `telnet`)
 - `.torrent` file parser
@@ -62,7 +92,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - Bootloader
 - Simple operating system
 - Memory allocation tracer (something like valgrind)
-- Process open file tracer
+p- Process open file tracer
 - Arena memory allocator
 - Garbage collector for C
 - Simple Shell
