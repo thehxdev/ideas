@@ -92,7 +92,7 @@ When I have an idea, I note that here. There are some other places to find proje
 - Bootloader
 - Simple operating system
 - Memory allocation tracer (something like valgrind)
-p- Process open file tracer
+- Process open file tracer
 - Arena memory allocator
 - Garbage collector for C
 - Simple Shell
